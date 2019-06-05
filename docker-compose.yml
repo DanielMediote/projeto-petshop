@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  #Meus serviços
+
+  #Aplicação
+  app:
+
+  #Banco de Dados
+  database:
+
+  #Servidor Web
+  web:
